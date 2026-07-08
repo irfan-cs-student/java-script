@@ -1,0 +1,11 @@
+html {
+    background-color: white; /* ya jo bhi margin area ka color chahiye */
+}
+body{
+    padding: 2em;
+    margin: 20px 40px;
+    color: rgb(14, 182, 126);
+    background-color: rgb(226, 215, 235);
+    border: 2px solid rgb(117, 192, 4);
+
+}
