@@ -9,3 +9,22 @@ body{
     border: 2px solid rgb(117, 192, 4);
 
 }
+#sub-btn{
+    color: rgb(247, 246, 244);
+    background-color: rgb(101, 205, 101);
+    border-radius: 5px;
+    border: 1px solid white;
+    transition: transform 0.3s ease, background-color 0.2s ease;
+
+}
+#sub-btn:hover{
+    background-color: rgb(62, 101, 55);
+    transform: scale(1.1);
+}
+h1{
+    color: rgb(14, 153, 7);
+}
+label{
+    font-size: 20px;
+    color: rgb(10, 176, 10);
+}
